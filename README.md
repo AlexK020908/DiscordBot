@@ -9,5 +9,4 @@ to use this bot, simply input your discord BOT KEY in the main method
 
 
 
-https://user-images.githubusercontent.com/96352305/147709712-5edb50a7-6aff-4fad-8c43-bdfc64aba915.mp4
 
