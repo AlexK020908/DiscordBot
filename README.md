@@ -8,5 +8,9 @@ one can also have the ability to remove ALL todos by typing -clear.
 to use this bot, simply input your discord BOT KEY in the main method
 
 
+To shut down the bot, simply type -shutdown in guild, and do not worry as all of your progress will be saved.
 
+
+
+https://user-images.githubusercontent.com/96352305/148631693-5bf8234d-b7eb-494b-8981-e27c5f98d547.mp4
 
